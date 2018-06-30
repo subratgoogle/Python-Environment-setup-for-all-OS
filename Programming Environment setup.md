@@ -5,7 +5,7 @@
 * #### Now you yourself comfortable on your own computer.
 
 * #### Below you will find a number of different options for code editors. We recommend for all of our courses using [Download Atom]
-* ### (https://atom.io/) which will work on all operating systems. If you decide not to use Atom, for first time coders Sublime is also popular.
+* #### (https://atom.io/) which will work on all operating systems. If you decide not to use Atom, for first time coders Sublime is also popular.
 
 <hr>
 
